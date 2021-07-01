@@ -1,0 +1,7 @@
+{
+  "name": "WeHelp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

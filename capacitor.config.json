@@ -1,0 +1,13 @@
+{
+  "appId": "com.angelsofthestreet.wehelp",
+  "appName": "WeHelp",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}
